@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CustomSerializerLibrary
-build_property.ProjectDir = D:\dotNet Projects\ReusableLibraries\serialization_library\src\CustomSerializerLibrary\CustomSerializerLibrary\
+build_property.ProjectDir = D:\dotNet Projects\ReusableLibraries\serializer_library\src\CustomSerializerLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

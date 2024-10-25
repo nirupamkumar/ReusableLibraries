@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomSerializerLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d4183a375b51fbc606c128129eb8ce433103bfe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9751b9536895d40e3d978dd4a561880835aefb77")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomSerializerLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomSerializerLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
