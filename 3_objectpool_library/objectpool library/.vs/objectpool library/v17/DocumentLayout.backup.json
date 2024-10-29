@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNet Projects\\ReusableLibraries\\3_object_pooling_library\\objectpool library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC4471D-AF90-4709-A5DB-57AA3AD3C12B}|objectpool library\\objectpool library.csproj|d:\\dotnet projects\\reusablelibraries\\3_object_pooling_library\\objectpool library\\objectpool library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC4471D-AF90-4709-A5DB-57AA3AD3C12B}|objectpool library\\objectpool library.csproj|solutionrelative:objectpool library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\dotNet Projects\\ReusableLibraries\\3_object_pooling_library\\objectpool library\\objectpool library\\Class1.cs",
+              "RelativeDocumentMoniker": "objectpool library\\Class1.cs",
+              "ToolTip": "D:\\dotNet Projects\\ReusableLibraries\\3_object_pooling_library\\objectpool library\\objectpool library\\Class1.cs",
+              "RelativeToolTip": "objectpool library\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:55:47.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
